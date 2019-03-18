@@ -25,4 +25,4 @@ Microservices are small, autonomous services that work together.
 -   You can reuse your microservice in different places with different ways for different purposes
 -   It is easier to delete or replace a microservice as it is small in size and concentrating on specific function with fewer lines of codes
 
-So now that we know definition and benefits of microservices , in the next section we will discuss how to model our services from [here](ExtractMicroservice.md)
+So now that we know definition and benefits of microservices , in the next section we will discuss how to model our services from [here](modelservices.md)
