@@ -39,7 +39,8 @@ From this we can see that our bounded contexts (with their domain models) are :
 
 Note that there is shared model between the three contexts but note that its internal representation inside each context should differ from the external representation which contains shared properties
 
-![img](images/chart.png)
+![img](images/chart.png).
+
 Now from our defined bounded context we should have services for stock , shipping and payment
 
 But there is a point , our bounded contexts should communicate with each other to make our business , for example shipping context should communicate with stock context to get details about product to be shipped and payment should communicate also with stock context
